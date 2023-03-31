@@ -1,0 +1,112 @@
+*{
+    margin: 0px;
+    padding:0px;
+}
+.topnav {
+  overflow: hidden;
+}
+
+.topnav a {
+  float: left;
+  color: black;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+  font-size: 17px;
+}
+
+
+.topnav a:hover {
+  background-color: violet;
+ }
+
+
+body{
+  background-image: url(/op.jpg);
+  background-size: cover;
+}
+
+
+
+h1{
+  text-align:center;
+  margin: auto;
+}
+
+h1:hover{
+  color:yellowgreen
+}
+
+.logo{
+  color: black;
+  font-size: 29px;
+  font-weight: 700;
+}
+
+.logo i{
+  vertical-align: middle;
+  color: #c32865;
+  margin:right 6px;
+  font-size: 40px;
+}
+
+.login{
+  width: 382px;
+  overflow: hidden;
+  margin: auto;
+  margin: 20 0 0 450px;
+  padding: 80px;
+  background-color: blueviolet;
+  
+  border-radius: 15px ;
+
+}
+h2{
+text-align: center;
+color:cyan
+}
+label{
+color: #08ffd1;
+font-size: 17px;
+}
+#Uname{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+}
+#Pass{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 3px;
+padding-left: 8px;
+
+}
+#log{
+width: 300px;
+height: 30px;
+border: none;
+border-radius: 17px;
+padding-left: 10px;
+color:black;
+}
+
+#log:hover{
+  color: #08ffd1;
+}
+
+
+
+span{
+color: white;
+font-size: 17px;
+}
+a{
+float: right;
+background-color:wheat;
+}
+#pass:hover{
+  background-color: red;
+}
